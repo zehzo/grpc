@@ -1,0 +1,7 @@
+Comand to run
+.../Downloads/protoc-23.4-osx-aarch_64/bin/protoc --js_out=import_style=commonjs,binary:. employees.proto
+need to install protoc - js globally
+npm i -g protoc-gen-js
+
+npm i google-protobuf
+
